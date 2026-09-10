@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 128,702+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 129,745+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -8,33 +8,33 @@
 
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
-| Basketball | 54.7% | Year-round | ✅ Yes |
-| Slippers | 53.7% | Year-round | ✅ Yes |
-| Football Boots | 50.0% | Year-round | ✅ Yes |
+| Slippers | 54.4% | Year-round | ✅ Yes |
+| Basketball | 54.0% | Year-round | ✅ Yes |
+| Football Boots | 49.5% | Year-round | ✅ Yes |
 | Swimwear | 46.7% | Year-round | ✅ Yes |
-| Suits & Blazers | 44.0% | Year-round | ✅ Yes |
-| Leggings | 42.4% | Year-round | ✅ Yes |
-| Co-ords | 41.8% | Year-round | ✅ Yes |
-| Joggers | 41.7% | Year-round | ✅ Yes |
-| Hoodies & Sweatshirts | 41.5% | Year-round | ✅ Yes |
+| Suits & Blazers | 44.1% | Year-round | ✅ Yes |
+| Leggings | 42.3% | Year-round | ✅ Yes |
+| Co-ords | 41.9% | Year-round | ✅ Yes |
+| Joggers | 41.6% | Year-round | ✅ Yes |
+| Hoodies & Sweatshirts | 41.4% | Year-round | ✅ Yes |
 | Jumpers & Cardigans | 41.3% | Year-round | ✅ Yes |
 | Trousers & Chinos | 41.3% | Year-round | ✅ Yes |
 
 ## Key Stats (September 2026, BuySignal data)
 
-- **128,702 live UK deals** tracked daily
-- **SPORTS DIRECT** leads all retailers: 51.8% average discount
-- **SCAN** lowest: 21.9% average discount
+- **129,745 live UK deals** tracked daily
+- **SPORTS DIRECT** leads all retailers: 50.9% average discount
+- **SCAN** lowest: 22.1% average discount
 
 ## Best UK Retailers for Discounts
 
 | Rank | Retailer | Avg Discount |
 |---|---|---|
-| 1 | SPORTS DIRECT | 51.8% |
-| 2 | JD SPORTS | 47.0% |
-| 3 | BOOTS | 44.1% |
-| 4 | ALPINE TREK | 43.0% |
-| 5 | SCHUH | 41.7% |
+| 1 | SPORTS DIRECT | 50.9% |
+| 2 | JD SPORTS | 47.6% |
+| 3 | ALPINE TREK | 43.3% |
+| 4 | SCHUH | 41.5% |
+| 5 | NEW BALANCE | 39.0% |
 
 ## Price Alert Tips
 
