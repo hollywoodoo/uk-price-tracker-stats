@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 129,260+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 130,101+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -8,33 +8,33 @@
 
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
-| Basketball | 53.9% | Year-round | ✅ Yes |
-| Slippers | 53.0% | Year-round | ✅ Yes |
-| Football Boots | 49.1% | Year-round | ✅ Yes |
-| Swimwear | 46.6% | Year-round | ✅ Yes |
-| Suits & Blazers | 44.1% | Year-round | ✅ Yes |
+| Basketball | 53.8% | Year-round | ✅ Yes |
+| Slippers | 52.7% | Year-round | ✅ Yes |
+| Football Boots | 49.0% | Year-round | ✅ Yes |
+| Swimwear | 46.4% | Year-round | ✅ Yes |
+| Suits & Blazers | 44.0% | Year-round | ✅ Yes |
 | Co-ords | 42.5% | Year-round | ✅ Yes |
-| Leggings | 41.9% | Year-round | ✅ Yes |
-| Joggers | 41.6% | Year-round | ✅ Yes |
-| Jumpers & Cardigans | 41.4% | Year-round | ✅ Yes |
-| Sandals | 41.4% | Year-round | ✅ Yes |
-| Trousers & Chinos | 41.1% | Year-round | ✅ Yes |
+| Leggings | 41.7% | Year-round | ✅ Yes |
+| Joggers | 41.5% | Year-round | ✅ Yes |
+| Jumpers & Cardigans | 41.3% | Year-round | ✅ Yes |
+| Sandals | 41.2% | Year-round | ✅ Yes |
+| Trousers & Chinos | 41.0% | Year-round | ✅ Yes |
 
 ## Key Stats (September 2026, BuySignal data)
 
-- **129,260 live UK deals** tracked daily
-- **SPORTS DIRECT** leads all retailers: 50.5% average discount
-- **SCAN** lowest: 21.8% average discount
+- **130,101 live UK deals** tracked daily
+- **SPORTS DIRECT** leads all retailers: 48.9% average discount
+- **SCAN** lowest: 21.7% average discount
 
 ## Best UK Retailers for Discounts
 
 | Rank | Retailer | Avg Discount |
 |---|---|---|
-| 1 | SPORTS DIRECT | 50.5% |
-| 2 | JD SPORTS | 47.7% |
-| 3 | ALPINE TREK | 42.6% |
-| 4 | THE_PERFUME_SHOP | 41.2% |
-| 5 | NEW BALANCE | 39.0% |
+| 1 | SPORTS DIRECT | 48.9% |
+| 2 | JD SPORTS | 47.6% |
+| 3 | ALPINE TREK | 42.4% |
+| 4 | THE_PERFUME_SHOP | 41.4% |
+| 5 | SCHUH | 39.3% |
 
 ## Price Alert Tips
 
