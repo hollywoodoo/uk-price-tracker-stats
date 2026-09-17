@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 127,484+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 127,307+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -15,14 +15,14 @@
 | Suits & Blazers | 44.6% | Year-round | ✅ Yes |
 | Co-ords | 43.3% | Year-round | ✅ Yes |
 | Beachwear | 43.2% | Year-round | ✅ Yes |
-| Leggings | 42.8% | Year-round | ✅ Yes |
+| Leggings | 42.7% | Year-round | ✅ Yes |
 | Sandals | 42.5% | Year-round | ✅ Yes |
 | Trousers & Chinos | 41.9% | Year-round | ✅ Yes |
-| Joggers | 41.7% | Year-round | ✅ Yes |
+| Sunglasses | 41.7% | Year-round | ✅ Yes |
 
 ## Key Stats (September 2026, BuySignal data)
 
-- **127,484 live UK deals** tracked daily
+- **127,307 live UK deals** tracked daily
 - **SPORTS DIRECT** leads all retailers: 50.9% average discount
 - **SCAN** lowest: 22.0% average discount
 
@@ -32,9 +32,9 @@
 |---|---|---|
 | 1 | SPORTS DIRECT | 50.9% |
 | 2 | JD SPORTS | 47.7% |
-| 3 | ALPINE TREK | 43.4% |
-| 4 | VERY | 41.6% |
-| 5 | SCHUH | 41.6% |
+| 3 | BOOTS | 46.0% |
+| 4 | ALPINE TREK | 43.4% |
+| 5 | VERY | 41.6% |
 
 ## Price Alert Tips
 
