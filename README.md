@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 125,905+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 126,015+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -8,33 +8,33 @@
 
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
-| Slippers | 54.8% | Year-round | ✅ Yes |
-| Basketball | 53.6% | Year-round | ✅ Yes |
-| Football Boots | 49.1% | Year-round | ✅ Yes |
-| Swimwear | 46.4% | Year-round | ✅ Yes |
+| Slippers | 54.6% | Year-round | ✅ Yes |
+| Basketball | 53.5% | Year-round | ✅ Yes |
+| Football Boots | 48.6% | Year-round | ✅ Yes |
+| Swimwear | 46.5% | Year-round | ✅ Yes |
 | Suits & Blazers | 43.8% | Year-round | ✅ Yes |
 | Co-ords | 42.3% | Year-round | ✅ Yes |
-| Sandals | 41.8% | Year-round | ✅ Yes |
-| Leggings | 41.6% | Year-round | ✅ Yes |
-| Trousers & Chinos | 41.4% | Year-round | ✅ Yes |
-| Jumpers & Cardigans | 40.9% | Year-round | ✅ Yes |
+| Sandals | 41.7% | Year-round | ✅ Yes |
+| Leggings | 41.5% | Year-round | ✅ Yes |
+| Trousers & Chinos | 41.3% | Year-round | ✅ Yes |
+| Jumpers & Cardigans | 40.8% | Year-round | ✅ Yes |
 | Dresses & Skirts | 40.8% | Year-round | ✅ Yes |
 
 ## Key Stats (September 2026, BuySignal data)
 
-- **125,905 live UK deals** tracked daily
-- **SPORTS DIRECT** leads all retailers: 50.4% average discount
+- **126,015 live UK deals** tracked daily
+- **SPORTS DIRECT** leads all retailers: 50.3% average discount
 - **SCAN** lowest: 21.8% average discount
 
 ## Best UK Retailers for Discounts
 
 | Rank | Retailer | Avg Discount |
 |---|---|---|
-| 1 | SPORTS DIRECT | 50.4% |
-| 2 | BOOTS | 46.8% |
-| 3 | JD SPORTS | 44.2% |
-| 4 | ALPINE TREK | 43.2% |
-| 5 | NEW BALANCE | 42.7% |
+| 1 | SPORTS DIRECT | 50.3% |
+| 2 | BOOTS | 46.2% |
+| 3 | JD SPORTS | 43.8% |
+| 4 | ALPINE TREK | 43.3% |
+| 5 | NEW BALANCE | 42.1% |
 
 ## Price Alert Tips
 
