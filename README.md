@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 127,172+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 131,032+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -8,33 +8,33 @@
 
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
-| Basketball | 48.0% | Year-round | ✅ Yes |
-| Football Boots | 45.9% | Year-round | ✅ Yes |
-| Suits & Blazers | 45.2% | Year-round | ✅ Yes |
-| Swimwear | 44.9% | Year-round | ✅ Yes |
-| Kids Clothing | 42.9% | Year-round | ✅ Yes |
-| Slippers | 42.6% | Year-round | ✅ Yes |
-| Sandals | 42.3% | Year-round | ✅ Yes |
-| Co-ords | 41.8% | Year-round | ✅ Yes |
-| Jeans | 41.3% | Year-round | ✅ Yes |
-| Trousers & Chinos | 41.0% | Year-round | ✅ Yes |
-| Women | 41.0% | Year-round | ✅ Yes |
+| Basketball | 46.5% | Year-round | ✅ Yes |
+| Football Boots | 45.1% | Year-round | ✅ Yes |
+| Suits & Blazers | 44.8% | Year-round | ✅ Yes |
+| Swimwear | 44.6% | Year-round | ✅ Yes |
+| Women | 42.4% | Year-round | ✅ Yes |
+| Kids Clothing | 42.1% | Year-round | ✅ Yes |
+| Sandals | 42.0% | Year-round | ✅ Yes |
+| Kids | 41.9% | Year-round | ✅ Yes |
+| Co-ords | 41.5% | Year-round | ✅ Yes |
+| Slippers | 40.9% | Year-round | ✅ Yes |
+| Dresses & Skirts | 40.5% | Year-round | ✅ Yes |
 
 ## Key Stats (September 2026, BuySignal data)
 
-- **127,172 live UK deals** tracked daily
-- **SPORTS DIRECT** leads all retailers: 50.5% average discount
-- **SCAN** lowest: 21.6% average discount
+- **131,032 live UK deals** tracked daily
+- **SPORTS DIRECT** leads all retailers: 50.0% average discount
+- **SCAN** lowest: 21.7% average discount
 
 ## Best UK Retailers for Discounts
 
 | Rank | Retailer | Avg Discount |
 |---|---|---|
-| 1 | SPORTS DIRECT | 50.5% |
-| 2 | ALPINE TREK | 43.2% |
-| 3 | JD SPORTS | 43.2% |
-| 4 | SCHUH | 42.3% |
-| 5 | NEW BALANCE | 41.7% |
+| 1 | SPORTS DIRECT | 50.0% |
+| 2 | JD SPORTS | 43.2% |
+| 3 | SCHUH | 42.3% |
+| 4 | ALPINE TREK | 41.7% |
+| 5 | NEW BALANCE | 41.5% |
 
 ## Price Alert Tips
 
