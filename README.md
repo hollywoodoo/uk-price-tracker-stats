@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 131,032+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 123,605+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -8,33 +8,33 @@
 
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
-| Basketball | 46.5% | Year-round | ✅ Yes |
-| Football Boots | 45.1% | Year-round | ✅ Yes |
-| Suits & Blazers | 44.8% | Year-round | ✅ Yes |
-| Swimwear | 44.6% | Year-round | ✅ Yes |
-| Women | 42.4% | Year-round | ✅ Yes |
-| Kids Clothing | 42.1% | Year-round | ✅ Yes |
-| Sandals | 42.0% | Year-round | ✅ Yes |
-| Kids | 41.9% | Year-round | ✅ Yes |
-| Co-ords | 41.5% | Year-round | ✅ Yes |
-| Slippers | 40.9% | Year-round | ✅ Yes |
-| Dresses & Skirts | 40.5% | Year-round | ✅ Yes |
+| Basketball | 47.7% | Year-round | ✅ Yes |
+| Football Boots | 46.0% | Year-round | ✅ Yes |
+| Suits & Blazers | 44.6% | Year-round | ✅ Yes |
+| Sandals | 42.1% | Year-round | ✅ Yes |
+| Co-ords | 41.4% | Year-round | ✅ Yes |
+| Swimwear | 41.2% | Year-round | ✅ Yes |
+| Kids Clothing | 40.7% | Year-round | ✅ Yes |
+| Slippers | 40.6% | Year-round | ✅ Yes |
+| Kids | 40.5% | Year-round | ✅ Yes |
+| Dresses & Skirts | 40.2% | Year-round | ✅ Yes |
+| Eau de Cologne | 39.8% | Year-round | ✅ Yes |
 
 ## Key Stats (September 2026, BuySignal data)
 
-- **131,032 live UK deals** tracked daily
-- **SPORTS DIRECT** leads all retailers: 50.0% average discount
+- **123,605 live UK deals** tracked daily
+- **SPORTS DIRECT** leads all retailers: 50.7% average discount
 - **SCAN** lowest: 21.7% average discount
 
 ## Best UK Retailers for Discounts
 
 | Rank | Retailer | Avg Discount |
 |---|---|---|
-| 1 | SPORTS DIRECT | 50.0% |
-| 2 | JD SPORTS | 43.2% |
+| 1 | SPORTS DIRECT | 50.7% |
+| 2 | JD SPORTS | 42.4% |
 | 3 | SCHUH | 42.3% |
-| 4 | ALPINE TREK | 41.7% |
-| 5 | NEW BALANCE | 41.5% |
+| 4 | NEW BALANCE | 41.9% |
+| 5 | THE_PERFUME_SHOP | 41.1% |
 
 ## Price Alert Tips
 
