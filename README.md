@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 125,353+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 122,669+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -8,33 +8,33 @@
 
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
-| Basketball | 49.9% | Year-round | ✅ Yes |
-| Football Boots | 45.5% | Year-round | ✅ Yes |
-| Swimwear | 44.6% | Year-round | ✅ Yes |
-| Suits & Blazers | 44.5% | Year-round | ✅ Yes |
-| Sandals | 41.6% | Year-round | ✅ Yes |
-| Co-ords | 41.2% | Year-round | ✅ Yes |
-| Kids Clothing | 41.1% | Year-round | ✅ Yes |
-| Eau de Cologne | 40.6% | Year-round | ✅ Yes |
-| Slippers | 40.3% | Year-round | ✅ Yes |
-| Dresses & Skirts | 40.1% | Year-round | ✅ Yes |
-| Trousers & Chinos | 39.7% | Year-round | ✅ Yes |
+| Basketball | 46.1% | Year-round | ✅ Yes |
+| Swimwear | 44.8% | Year-round | ✅ Yes |
+| Suits & Blazers | 44.6% | Year-round | ✅ Yes |
+| Football Boots | 43.7% | Year-round | ✅ Yes |
+| Sandals | 42.4% | Year-round | ✅ Yes |
+| Kids Clothing | 41.6% | Year-round | ✅ Yes |
+| Eau de Cologne | 41.6% | Year-round | ✅ Yes |
+| Co-ords | 41.4% | Year-round | ✅ Yes |
+| Wedges | 40.6% | Year-round | ✅ Yes |
+| Dresses & Skirts | 40.4% | Year-round | ✅ Yes |
+| Jeans | 40.1% | Year-round | ✅ Yes |
 
 ## Key Stats (September 2026, BuySignal data)
 
-- **125,353 live UK deals** tracked daily
-- **SPORTS DIRECT** leads all retailers: 49.6% average discount
-- **SCAN** lowest: 21.8% average discount
+- **122,669 live UK deals** tracked daily
+- **SPORTS DIRECT** leads all retailers: 50.6% average discount
+- **SCAN** lowest: 21.7% average discount
 
 ## Best UK Retailers for Discounts
 
 | Rank | Retailer | Avg Discount |
 |---|---|---|
-| 1 | SPORTS DIRECT | 49.6% |
+| 1 | SPORTS DIRECT | 50.6% |
 | 2 | SCHUH | 42.5% |
 | 3 | NEW BALANCE | 41.9% |
 | 4 | JD SPORTS | 41.7% |
-| 5 | ALPINE TREK | 41.2% |
+| 5 | BOOTS | 41.7% |
 
 ## Price Alert Tips
 
