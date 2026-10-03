@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 118,690+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 120,590+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -8,33 +8,33 @@
 
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
-| Basketball | 49.5% | Year-round | ✅ Yes |
-| Football Boots | 47.4% | Year-round | ✅ Yes |
-| Suits & Blazers | 45.8% | Year-round | ✅ Yes |
-| Co-ords | 44.4% | Year-round | ✅ Yes |
-| Beachwear | 43.4% | Year-round | ✅ Yes |
-| Dresses & Skirts | 42.9% | Year-round | ✅ Yes |
-| Swimwear | 42.8% | Year-round | ✅ Yes |
-| Sandals | 42.4% | Year-round | ✅ Yes |
-| Slippers | 41.4% | Year-round | ✅ Yes |
-| Eau de Cologne | 41.3% | Year-round | ✅ Yes |
-| Jeans | 40.5% | Year-round | ✅ Yes |
+| Basketball | 49.7% | Year-round | ✅ Yes |
+| Football Boots | 48.1% | Year-round | ✅ Yes |
+| Swimwear | 46.3% | Year-round | ✅ Yes |
+| Suits & Blazers | 45.6% | Year-round | ✅ Yes |
+| Co-ords | 43.9% | Year-round | ✅ Yes |
+| Dresses & Skirts | 42.8% | Year-round | ✅ Yes |
+| Beachwear | 42.2% | Year-round | ✅ Yes |
+| Sandals | 41.7% | Year-round | ✅ Yes |
+| Eau de Cologne | 41.2% | Year-round | ✅ Yes |
+| Trousers & Chinos | 40.2% | Year-round | ✅ Yes |
+| Jumpers & Cardigans | 40.1% | Year-round | ✅ Yes |
 
 ## Key Stats (October 2026, BuySignal data)
 
-- **118,690 live UK deals** tracked daily
-- **SPORTS DIRECT** leads all retailers: 50.7% average discount
-- **SCAN** lowest: 23.0% average discount
+- **120,590 live UK deals** tracked daily
+- **SPORTS DIRECT** leads all retailers: 50.5% average discount
+- **SCAN** lowest: 22.7% average discount
 
 ## Best UK Retailers for Discounts
 
 | Rank | Retailer | Avg Discount |
 |---|---|---|
-| 1 | SPORTS DIRECT | 50.7% |
+| 1 | SPORTS DIRECT | 50.5% |
 | 2 | NEW BALANCE | 42.2% |
-| 3 | BOOTS | 41.8% |
-| 4 | SCHUH | 41.6% |
-| 5 | JD SPORTS | 40.3% |
+| 3 | SCHUH | 41.8% |
+| 4 | BOOTS | 40.4% |
+| 5 | THE_PERFUME_SHOP | 40.3% |
 
 ## Price Alert Tips
 
