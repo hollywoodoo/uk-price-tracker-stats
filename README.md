@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 116,017+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 116,366+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -8,32 +8,32 @@
 
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
-| Basketball | 48.1% | Year-round | ✅ Yes |
-| Suits & Blazers | 47.0% | Year-round | ✅ Yes |
+| Basketball | 49.6% | Year-round | ✅ Yes |
+| Football Boots | 47.3% | Year-round | ✅ Yes |
+| Suits & Blazers | 46.8% | Year-round | ✅ Yes |
 | Swimwear | 46.0% | Year-round | ✅ Yes |
-| Football Boots | 45.9% | Year-round | ✅ Yes |
-| Co-ords | 44.8% | Year-round | ✅ Yes |
-| Dresses & Skirts | 43.8% | Year-round | ✅ Yes |
-| Beachwear | 42.8% | Year-round | ✅ Yes |
-| Sandals | 41.2% | Year-round | ✅ Yes |
-| Trousers & Chinos | 41.1% | Year-round | ✅ Yes |
-| Jeans | 41.0% | Year-round | ✅ Yes |
-| Kids Clothing | 41.0% | Year-round | ✅ Yes |
+| Co-ords | 44.5% | Year-round | ✅ Yes |
+| Dresses & Skirts | 43.6% | Year-round | ✅ Yes |
+| Beachwear | 42.7% | Year-round | ✅ Yes |
+| Sandals | 41.8% | Year-round | ✅ Yes |
+| Jeans | 41.2% | Year-round | ✅ Yes |
+| Kids Clothing | 41.2% | Year-round | ✅ Yes |
+| Trousers & Chinos | 40.9% | Year-round | ✅ Yes |
 
 ## Key Stats (October 2026, BuySignal data)
 
-- **116,017 live UK deals** tracked daily
-- **SPORTS DIRECT** leads all retailers: 48.6% average discount
-- **SCAN** lowest: 22.6% average discount
+- **116,366 live UK deals** tracked daily
+- **SPORTS DIRECT** leads all retailers: 49.6% average discount
+- **SCAN** lowest: 22.7% average discount
 
 ## Best UK Retailers for Discounts
 
 | Rank | Retailer | Avg Discount |
 |---|---|---|
-| 1 | SPORTS DIRECT | 48.6% |
+| 1 | SPORTS DIRECT | 49.6% |
 | 2 | NEW BALANCE | 42.0% |
-| 3 | SCHUH | 41.8% |
-| 4 | ASOS_CLOTHING | 41.4% |
+| 3 | SCHUH | 41.9% |
+| 4 | ASOS_CLOTHING | 41.2% |
 | 5 | BOOTS | 40.6% |
 
 ## Price Alert Tips
