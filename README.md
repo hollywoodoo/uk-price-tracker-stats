@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 116,366+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 119,905+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -8,33 +8,33 @@
 
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
-| Basketball | 49.6% | Year-round | ✅ Yes |
-| Football Boots | 47.3% | Year-round | ✅ Yes |
-| Suits & Blazers | 46.8% | Year-round | ✅ Yes |
-| Swimwear | 46.0% | Year-round | ✅ Yes |
-| Co-ords | 44.5% | Year-round | ✅ Yes |
-| Dresses & Skirts | 43.6% | Year-round | ✅ Yes |
+| Basketball | 50.5% | Year-round | ✅ Yes |
+| Football Boots | 47.8% | Year-round | ✅ Yes |
+| Swimwear | 46.1% | Year-round | ✅ Yes |
+| Suits & Blazers | 46.0% | Year-round | ✅ Yes |
+| Co-ords | 44.0% | Year-round | ✅ Yes |
+| Dresses & Skirts | 42.9% | Year-round | ✅ Yes |
 | Beachwear | 42.7% | Year-round | ✅ Yes |
-| Sandals | 41.8% | Year-round | ✅ Yes |
-| Jeans | 41.2% | Year-round | ✅ Yes |
-| Kids Clothing | 41.2% | Year-round | ✅ Yes |
-| Trousers & Chinos | 40.9% | Year-round | ✅ Yes |
+| Sandals | 42.0% | Year-round | ✅ Yes |
+| Kids Clothing | 41.4% | Year-round | ✅ Yes |
+| Jeans | 40.4% | Year-round | ✅ Yes |
+| Trousers & Chinos | 40.3% | Year-round | ✅ Yes |
 
 ## Key Stats (October 2026, BuySignal data)
 
-- **116,366 live UK deals** tracked daily
-- **SPORTS DIRECT** leads all retailers: 49.6% average discount
-- **SCAN** lowest: 22.7% average discount
+- **119,905 live UK deals** tracked daily
+- **SPORTS DIRECT** leads all retailers: 50.3% average discount
+- **SCAN** lowest: 22.5% average discount
 
 ## Best UK Retailers for Discounts
 
 | Rank | Retailer | Avg Discount |
 |---|---|---|
-| 1 | SPORTS DIRECT | 49.6% |
-| 2 | NEW BALANCE | 42.0% |
-| 3 | SCHUH | 41.9% |
-| 4 | ASOS_CLOTHING | 41.2% |
-| 5 | BOOTS | 40.6% |
+| 1 | SPORTS DIRECT | 50.3% |
+| 2 | BOOTS | 45.4% |
+| 3 | SCHUH | 42.0% |
+| 4 | NEW BALANCE | 41.8% |
+| 5 | JD SPORTS | 40.3% |
 
 ## Price Alert Tips
 
