@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 98,722+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 124,526+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -8,33 +8,33 @@
 
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
-| Basketball | 50.5% | Year-round | ✅ Yes |
-| Swimwear | 47.6% | Year-round | ✅ Yes |
-| Football Boots | 47.0% | Year-round | ✅ Yes |
-| Suits & Blazers | 44.6% | Year-round | ✅ Yes |
-| Co-ords | 42.4% | Year-round | ✅ Yes |
+| Basketball | 50.2% | Year-round | ✅ Yes |
+| Football Boots | 46.7% | Year-round | ✅ Yes |
+| Swimwear | 46.4% | Year-round | ✅ Yes |
+| Suits & Blazers | 44.9% | Year-round | ✅ Yes |
+| Co-ords | 43.4% | Year-round | ✅ Yes |
+| Dresses & Skirts | 42.6% | Year-round | ✅ Yes |
+| Beachwear | 42.3% | Year-round | ✅ Yes |
 | Sandals | 42.0% | Year-round | ✅ Yes |
-| Slippers | 40.5% | Year-round | ✅ Yes |
-| Eau de Cologne | 40.4% | Year-round | ✅ Yes |
-| Dresses & Skirts | 40.3% | Year-round | ✅ Yes |
-| Kids Clothing | 40.2% | Year-round | ✅ Yes |
-| Eau de Toilette | 40.1% | Year-round | ✅ Yes |
+| Kids Clothing | 41.3% | Year-round | ✅ Yes |
+| Eau de Cologne | 41.0% | Year-round | ✅ Yes |
+| Trousers & Chinos | 40.2% | Year-round | ✅ Yes |
 
 ## Key Stats (October 2026, BuySignal data)
 
-- **98,722 live UK deals** tracked daily
-- **SPORTS DIRECT** leads all retailers: 50.3% average discount
-- **ARGOS** lowest: 22.7% average discount
+- **124,526 live UK deals** tracked daily
+- **SPORTS DIRECT** leads all retailers: 50.2% average discount
+- **ARGOS** lowest: 22.9% average discount
 
 ## Best UK Retailers for Discounts
 
 | Rank | Retailer | Avg Discount |
 |---|---|---|
-| 1 | SPORTS DIRECT | 50.3% |
+| 1 | SPORTS DIRECT | 50.2% |
 | 2 | THE NORTH FACE | 44.1% |
-| 3 | SCHUH | 42.7% |
-| 4 | BOOTS | 40.5% |
-| 5 | NEW BALANCE | 39.9% |
+| 3 | SCHUH | 42.8% |
+| 4 | NEW BALANCE | 40.5% |
+| 5 | ALPINE TREK | 40.3% |
 
 ## Price Alert Tips
 
