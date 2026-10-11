@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 124,526+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 123,830+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -8,33 +8,33 @@
 
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
-| Basketball | 50.2% | Year-round | ✅ Yes |
-| Football Boots | 46.7% | Year-round | ✅ Yes |
+| Basketball | 50.0% | Year-round | ✅ Yes |
 | Swimwear | 46.4% | Year-round | ✅ Yes |
+| Football Boots | 45.9% | Year-round | ✅ Yes |
 | Suits & Blazers | 44.9% | Year-round | ✅ Yes |
 | Co-ords | 43.4% | Year-round | ✅ Yes |
 | Dresses & Skirts | 42.6% | Year-round | ✅ Yes |
-| Beachwear | 42.3% | Year-round | ✅ Yes |
-| Sandals | 42.0% | Year-round | ✅ Yes |
-| Kids Clothing | 41.3% | Year-round | ✅ Yes |
-| Eau de Cologne | 41.0% | Year-round | ✅ Yes |
-| Trousers & Chinos | 40.2% | Year-round | ✅ Yes |
+| Beachwear | 42.0% | Year-round | ✅ Yes |
+| Sandals | 41.7% | Year-round | ✅ Yes |
+| Kids Clothing | 41.6% | Year-round | ✅ Yes |
+| Trousers & Chinos | 40.1% | Year-round | ✅ Yes |
+| Eau de Toilette | 39.6% | Year-round | ✅ Yes |
 
 ## Key Stats (October 2026, BuySignal data)
 
-- **124,526 live UK deals** tracked daily
-- **SPORTS DIRECT** leads all retailers: 50.2% average discount
+- **123,830 live UK deals** tracked daily
+- **SPORTS DIRECT** leads all retailers: 47.9% average discount
 - **ARGOS** lowest: 22.9% average discount
 
 ## Best UK Retailers for Discounts
 
 | Rank | Retailer | Avg Discount |
 |---|---|---|
-| 1 | SPORTS DIRECT | 50.2% |
+| 1 | SPORTS DIRECT | 47.9% |
 | 2 | THE NORTH FACE | 44.1% |
-| 3 | SCHUH | 42.8% |
-| 4 | NEW BALANCE | 40.5% |
-| 5 | ALPINE TREK | 40.3% |
+| 3 | SCHUH | 42.7% |
+| 4 | NEW BALANCE | 40.6% |
+| 5 | ASOS_CLOTHING | 40.1% |
 
 ## Price Alert Tips
 
@@ -51,4 +51,4 @@
 ## About
 
 Data source: BuySignal independent UK deals tracker. Updated automatically (daily).
-No affiliate relationships — data reflects genuine verified discounts only.
+No affiliate relationships — discounts shown are the retailers' stated discounts.
