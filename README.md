@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 123,830+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 95,051+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -8,33 +8,33 @@
 
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
-| Basketball | 50.0% | Year-round | ✅ Yes |
-| Swimwear | 46.4% | Year-round | ✅ Yes |
-| Football Boots | 45.9% | Year-round | ✅ Yes |
-| Suits & Blazers | 44.9% | Year-round | ✅ Yes |
-| Co-ords | 43.4% | Year-round | ✅ Yes |
-| Dresses & Skirts | 42.6% | Year-round | ✅ Yes |
-| Beachwear | 42.0% | Year-round | ✅ Yes |
-| Sandals | 41.7% | Year-round | ✅ Yes |
-| Kids Clothing | 41.6% | Year-round | ✅ Yes |
-| Trousers & Chinos | 40.1% | Year-round | ✅ Yes |
-| Eau de Toilette | 39.6% | Year-round | ✅ Yes |
+| Basketball | 49.1% | Year-round | ✅ Yes |
+| Swimwear | 47.5% | Year-round | ✅ Yes |
+| Football Boots | 46.1% | Year-round | ✅ Yes |
+| Suits & Blazers | 44.7% | Year-round | ✅ Yes |
+| Co-ords | 42.2% | Year-round | ✅ Yes |
+| Sandals | 42.1% | Year-round | ✅ Yes |
+| Kids Clothing | 41.2% | Year-round | ✅ Yes |
+| Beachwear | 40.2% | Year-round | ✅ Yes |
+| Dresses & Skirts | 40.2% | Year-round | ✅ Yes |
+| Slippers | 40.2% | Year-round | ✅ Yes |
+| Trousers & Chinos | 39.5% | Year-round | ✅ Yes |
 
 ## Key Stats (October 2026, BuySignal data)
 
-- **123,830 live UK deals** tracked daily
-- **SPORTS DIRECT** leads all retailers: 47.9% average discount
+- **95,051 live UK deals** tracked daily
+- **SPORTS DIRECT** leads all retailers: 48.9% average discount
 - **ARGOS** lowest: 22.9% average discount
 
 ## Best UK Retailers for Discounts
 
 | Rank | Retailer | Avg Discount |
 |---|---|---|
-| 1 | SPORTS DIRECT | 47.9% |
+| 1 | SPORTS DIRECT | 48.9% |
 | 2 | THE NORTH FACE | 44.1% |
-| 3 | SCHUH | 42.7% |
-| 4 | NEW BALANCE | 40.6% |
-| 5 | ASOS_CLOTHING | 40.1% |
+| 3 | NEW BALANCE | 40.5% |
+| 4 | ALPINE TREK | 40.1% |
+| 5 | BOOTS | 39.7% |
 
 ## Price Alert Tips
 
