@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 122,579+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 117,695+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -8,33 +8,33 @@
 
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
-| Basketball | 47.5% | Year-round | ✅ Yes |
-| Football Boots | 46.4% | Year-round | ✅ Yes |
-| Swimwear | 46.2% | Year-round | ✅ Yes |
-| Suits & Blazers | 43.8% | Year-round | ✅ Yes |
-| Co-ords | 42.5% | Year-round | ✅ Yes |
-| Sandals | 42.4% | Year-round | ✅ Yes |
-| Beachwear | 41.4% | Year-round | ✅ Yes |
-| Dresses & Skirts | 41.2% | Year-round | ✅ Yes |
-| Kids Clothing | 41.2% | Year-round | ✅ Yes |
-| Slippers | 38.9% | Year-round | ✅ Yes |
-| Eau de Toilette | 38.8% | Year-round | ✅ Yes |
+| Football Boots | 47.1% | Year-round | ✅ Yes |
+| Basketball | 47.1% | Year-round | ✅ Yes |
+| Swimwear | 46.5% | Year-round | ✅ Yes |
+| Suits & Blazers | 45.1% | Year-round | ✅ Yes |
+| Kids Clothing | 43.9% | Year-round | ✅ Yes |
+| Co-ords | 43.3% | Year-round | ✅ Yes |
+| Sandals | 42.7% | Year-round | ✅ Yes |
+| Dresses & Skirts | 42.3% | Year-round | ✅ Yes |
+| Beachwear | 41.2% | Year-round | ✅ Yes |
+| Slippers | 40.3% | Year-round | ✅ Yes |
+| Trousers & Chinos | 40.0% | Year-round | ✅ Yes |
 
 ## Key Stats (October 2026, BuySignal data)
 
-- **122,579 live UK deals** tracked daily
+- **117,695 live UK deals** tracked daily
 - **SPORTS DIRECT** leads all retailers: 50.3% average discount
-- **ARGOS** lowest: 22.9% average discount
+- **ARGOS** lowest: 23.1% average discount
 
 ## Best UK Retailers for Discounts
 
 | Rank | Retailer | Avg Discount |
 |---|---|---|
 | 1 | SPORTS DIRECT | 50.3% |
-| 2 | THE NORTH FACE | 44.0% |
+| 2 | THE NORTH FACE | 43.4% |
 | 3 | NEW BALANCE | 40.5% |
-| 4 | BOOTS | 40.0% |
-| 5 | ALPINE TREK | 39.6% |
+| 4 | ALPINE TREK | 40.1% |
+| 5 | BOOTS | 39.6% |
 
 ## Price Alert Tips
 
