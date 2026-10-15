@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 117,695+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 117,447+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -9,32 +9,32 @@
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
 | Football Boots | 47.1% | Year-round | ✅ Yes |
-| Basketball | 47.1% | Year-round | ✅ Yes |
+| Basketball | 46.9% | Year-round | ✅ Yes |
 | Swimwear | 46.5% | Year-round | ✅ Yes |
-| Suits & Blazers | 45.1% | Year-round | ✅ Yes |
-| Kids Clothing | 43.9% | Year-round | ✅ Yes |
-| Co-ords | 43.3% | Year-round | ✅ Yes |
-| Sandals | 42.7% | Year-round | ✅ Yes |
+| Kids Clothing | 45.6% | Year-round | ✅ Yes |
+| Suits & Blazers | 45.0% | Year-round | ✅ Yes |
+| Co-ords | 43.2% | Year-round | ✅ Yes |
+| Sandals | 42.4% | Year-round | ✅ Yes |
 | Dresses & Skirts | 42.3% | Year-round | ✅ Yes |
-| Beachwear | 41.2% | Year-round | ✅ Yes |
-| Slippers | 40.3% | Year-round | ✅ Yes |
-| Trousers & Chinos | 40.0% | Year-round | ✅ Yes |
+| Beachwear | 41.9% | Year-round | ✅ Yes |
+| Trousers & Chinos | 40.2% | Year-round | ✅ Yes |
+| Slippers | 40.0% | Year-round | ✅ Yes |
 
 ## Key Stats (October 2026, BuySignal data)
 
-- **117,695 live UK deals** tracked daily
-- **SPORTS DIRECT** leads all retailers: 50.3% average discount
-- **ARGOS** lowest: 23.1% average discount
+- **117,447 live UK deals** tracked daily
+- **SPORTS DIRECT** leads all retailers: 50.5% average discount
+- **SCAN** lowest: 23.2% average discount
 
 ## Best UK Retailers for Discounts
 
 | Rank | Retailer | Avg Discount |
 |---|---|---|
-| 1 | SPORTS DIRECT | 50.3% |
-| 2 | THE NORTH FACE | 43.4% |
-| 3 | NEW BALANCE | 40.5% |
-| 4 | ALPINE TREK | 40.1% |
-| 5 | BOOTS | 39.6% |
+| 1 | SPORTS DIRECT | 50.5% |
+| 2 | BOOTS | 43.5% |
+| 3 | THE NORTH FACE | 43.4% |
+| 4 | NEW BALANCE | 40.5% |
+| 5 | JD SPORTS | 40.4% |
 
 ## Price Alert Tips
 
