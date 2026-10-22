@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 124,067+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 131,121+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -8,33 +8,33 @@
 
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
-| Football Boots | 47.2% | Year-round | ✅ Yes |
-| Basketball | 46.6% | Year-round | ✅ Yes |
-| Swimwear | 46.3% | Year-round | ✅ Yes |
-| Suits & Blazers | 45.0% | Year-round | ✅ Yes |
-| Co-ords | 43.1% | Year-round | ✅ Yes |
-| Sandals | 42.8% | Year-round | ✅ Yes |
-| Dresses & Skirts | 42.4% | Year-round | ✅ Yes |
-| Beachwear | 42.1% | Year-round | ✅ Yes |
-| Kids Clothing | 42.1% | Year-round | ✅ Yes |
-| Slippers | 41.3% | Year-round | ✅ Yes |
-| Shorts | 40.4% | Year-round | ✅ Yes |
+| Basketball | 47.2% | Year-round | ✅ Yes |
+| Football Boots | 46.3% | Year-round | ✅ Yes |
+| Swimwear | 45.5% | Year-round | ✅ Yes |
+| Suits & Blazers | 44.1% | Year-round | ✅ Yes |
+| Co-ords | 42.5% | Year-round | ✅ Yes |
+| Beachwear | 42.2% | Year-round | ✅ Yes |
+| Dresses & Skirts | 41.9% | Year-round | ✅ Yes |
+| Sandals | 41.8% | Year-round | ✅ Yes |
+| Kids Clothing | 40.3% | Year-round | ✅ Yes |
+| Shorts | 39.3% | Year-round | ✅ Yes |
+| Slippers | 39.3% | Year-round | ✅ Yes |
 
 ## Key Stats (October 2026, BuySignal data)
 
-- **124,067 live UK deals** tracked daily
-- **SPORTS DIRECT** leads all retailers: 50.6% average discount
+- **131,121 live UK deals** tracked daily
+- **SPORTS DIRECT** leads all retailers: 50.5% average discount
 - **CURRYS** lowest: 22.7% average discount
 
 ## Best UK Retailers for Discounts
 
 | Rank | Retailer | Avg Discount |
 |---|---|---|
-| 1 | SPORTS DIRECT | 50.6% |
-| 2 | THE NORTH FACE | 43.5% |
-| 3 | JD SPORTS | 42.4% |
-| 4 | NEW BALANCE | 40.3% |
-| 5 | BOOTS | 39.9% |
+| 1 | SPORTS DIRECT | 50.5% |
+| 2 | THE NORTH FACE | 43.4% |
+| 3 | JD SPORTS | 42.0% |
+| 4 | BOOTS | 40.2% |
+| 5 | ASOS_CLOTHING | 38.8% |
 
 ## Price Alert Tips
 
