@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 132,568+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 133,183+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -9,32 +9,32 @@
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
 | Basketball | 46.8% | Year-round | ✅ Yes |
-| Football Boots | 46.0% | Year-round | ✅ Yes |
+| Football Boots | 46.3% | Year-round | ✅ Yes |
 | Swimwear | 45.8% | Year-round | ✅ Yes |
-| Suits & Blazers | 44.1% | Year-round | ✅ Yes |
-| Co-ords | 42.4% | Year-round | ✅ Yes |
+| Suits & Blazers | 44.2% | Year-round | ✅ Yes |
+| Co-ords | 42.5% | Year-round | ✅ Yes |
 | Beachwear | 42.3% | Year-round | ✅ Yes |
 | Dresses & Skirts | 41.9% | Year-round | ✅ Yes |
-| Sandals | 41.7% | Year-round | ✅ Yes |
-| Kids Clothing | 39.9% | Year-round | ✅ Yes |
-| Slippers | 39.5% | Year-round | ✅ Yes |
-| Eau de Toilette | 39.5% | Year-round | ✅ Yes |
+| Sandals | 41.8% | Year-round | ✅ Yes |
+| Eau de Toilette | 39.9% | Year-round | ✅ Yes |
+| Shorts | 39.6% | Year-round | ✅ Yes |
+| Slippers | 39.4% | Year-round | ✅ Yes |
 
 ## Key Stats (October 2026, BuySignal data)
 
-- **132,568 live UK deals** tracked daily
-- **SPORTS DIRECT** leads all retailers: 50.5% average discount
-- **CURRYS** lowest: 22.8% average discount
+- **133,183 live UK deals** tracked daily
+- **SPORTS DIRECT** leads all retailers: 50.6% average discount
+- **SCAN** lowest: 23.1% average discount
 
 ## Best UK Retailers for Discounts
 
 | Rank | Retailer | Avg Discount |
 |---|---|---|
-| 1 | SPORTS DIRECT | 50.5% |
-| 2 | JD SPORTS | 43.3% |
-| 3 | THE NORTH FACE | 43.3% |
-| 4 | BOOTS | 39.5% |
-| 5 | THE_PERFUME_SHOP | 39.2% |
+| 1 | SPORTS DIRECT | 50.6% |
+| 2 | THE NORTH FACE | 44.2% |
+| 3 | JD SPORTS | 44.0% |
+| 4 | THE_PERFUME_SHOP | 41.7% |
+| 5 | BOOTS | 40.0% |
 
 ## Price Alert Tips
 
