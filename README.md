@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 130,282+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 130,446+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -8,33 +8,33 @@
 
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
-| Football Boots | 46.9% | Year-round | ✅ Yes |
-| Basketball | 46.9% | Year-round | ✅ Yes |
-| Swimwear | 46.1% | Year-round | ✅ Yes |
-| Suits & Blazers | 44.2% | Year-round | ✅ Yes |
-| Co-ords | 42.8% | Year-round | ✅ Yes |
-| Beachwear | 42.6% | Year-round | ✅ Yes |
-| Dresses & Skirts | 42.6% | Year-round | ✅ Yes |
-| Sandals | 41.9% | Year-round | ✅ Yes |
-| Kids Clothing | 40.5% | Year-round | ✅ Yes |
-| Slippers | 40.4% | Year-round | ✅ Yes |
-| Shorts | 40.3% | Year-round | ✅ Yes |
+| Basketball | 47.0% | Year-round | ✅ Yes |
+| Football Boots | 45.9% | Year-round | ✅ Yes |
+| Swimwear | 45.8% | Year-round | ✅ Yes |
+| Suits & Blazers | 43.6% | Year-round | ✅ Yes |
+| Beachwear | 42.7% | Year-round | ✅ Yes |
+| Dresses & Skirts | 42.5% | Year-round | ✅ Yes |
+| Co-ords | 42.4% | Year-round | ✅ Yes |
+| Sandals | 42.1% | Year-round | ✅ Yes |
+| Shorts | 40.2% | Year-round | ✅ Yes |
+| Slippers | 40.1% | Year-round | ✅ Yes |
+| Playsuits & Jumpsuits | 39.7% | Year-round | ✅ Yes |
 
 ## Key Stats (October 2026, BuySignal data)
 
-- **130,282 live UK deals** tracked daily
-- **SPORTS DIRECT** leads all retailers: 50.7% average discount
-- **SCAN** lowest: 22.9% average discount
+- **130,446 live UK deals** tracked daily
+- **SPORTS DIRECT** leads all retailers: 50.5% average discount
+- **JOHN LEWIS** lowest: 22.3% average discount
 
 ## Best UK Retailers for Discounts
 
 | Rank | Retailer | Avg Discount |
 |---|---|---|
-| 1 | SPORTS DIRECT | 50.7% |
-| 2 | THE NORTH FACE | 44.1% |
-| 3 | JD SPORTS | 43.6% |
-| 4 | BOOTS | 39.3% |
-| 5 | THE_PERFUME_SHOP | 39.2% |
+| 1 | SPORTS DIRECT | 50.5% |
+| 2 | THE NORTH FACE | 44.2% |
+| 3 | JD SPORTS | 43.9% |
+| 4 | ASOS_CLOTHING | 38.8% |
+| 5 | THE_PERFUME_SHOP | 38.8% |
 
 ## Price Alert Tips
 
