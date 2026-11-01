@@ -1,40 +1,40 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 130,879+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 137,917+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
-## When to Buy — Category Guide (BuySignal data, October 2026)
+## When to Buy — Category Guide (BuySignal data, November 2026)
 
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
-| Basketball | 47.0% | Year-round | ✅ Yes |
-| Football Boots | 46.2% | Year-round | ✅ Yes |
-| Swimwear | 43.2% | Year-round | ✅ Yes |
-| Suits & Blazers | 43.0% | Year-round | ✅ Yes |
-| Beachwear | 42.8% | Year-round | ✅ Yes |
-| Sandals | 42.2% | Year-round | ✅ Yes |
-| Dresses & Skirts | 42.1% | Year-round | ✅ Yes |
-| Co-ords | 42.1% | Year-round | ✅ Yes |
-| Shorts | 39.9% | Year-round | ✅ Yes |
-| Slippers | 39.7% | Year-round | ✅ Yes |
-| Kids Clothing | 39.4% | Year-round | ✅ Yes |
+| Basketball | 46.5% | Year-round | ✅ Yes |
+| Football Boots | 45.9% | Year-round | ✅ Yes |
+| Swimwear | 44.5% | Year-round | ✅ Yes |
+| Suits & Blazers | 43.8% | Year-round | ✅ Yes |
+| Clothing | 43.8% | Year-round | ✅ Yes |
+| Dresses & Skirts | 42.6% | Year-round | ✅ Yes |
+| Beachwear | 42.4% | Year-round | ✅ Yes |
+| Co-ords | 42.2% | Year-round | ✅ Yes |
+| Sandals | 41.6% | Year-round | ✅ Yes |
+| Shorts | 40.2% | Year-round | ✅ Yes |
+| Slippers | 39.9% | Year-round | ✅ Yes |
 
-## Key Stats (October 2026, BuySignal data)
+## Key Stats (November 2026, BuySignal data)
 
-- **130,879 live UK deals** tracked daily
-- **SPORTS DIRECT** leads all retailers: 50.4% average discount
-- **LAPTOPS DIRECT** lowest: 21.1% average discount
+- **137,917 live UK deals** tracked daily
+- **THE_FRAGRANCE_SHOP** leads all retailers: 49.3% average discount
+- **LAPTOPS DIRECT** lowest: 21.2% average discount
 
 ## Best UK Retailers for Discounts
 
 | Rank | Retailer | Avg Discount |
 |---|---|---|
-| 1 | SPORTS DIRECT | 50.4% |
-| 2 | THE_FRAGRANCE_SHOP | 49.2% |
-| 3 | THE NORTH FACE | 44.5% |
-| 4 | THE_PERFUME_SHOP | 43.6% |
-| 5 | JD SPORTS | 43.3% |
+| 1 | THE_FRAGRANCE_SHOP | 49.3% |
+| 2 | SPORTS DIRECT | 48.9% |
+| 3 | H&M | 47.5% |
+| 4 | GAP | 46.9% |
+| 5 | UNIQLO | 45.6% |
 
 ## Price Alert Tips
 
