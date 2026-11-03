@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 157,170+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 159,202+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -9,32 +9,32 @@
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
 | Basketball | 46.9% | Year-round | ✅ Yes |
-| Football Boots | 46.0% | Year-round | ✅ Yes |
-| Swimwear | 45.8% | Year-round | ✅ Yes |
-| Suits & Blazers | 43.8% | Year-round | ✅ Yes |
-| Beachwear | 42.4% | Year-round | ✅ Yes |
-| Co-ords | 42.3% | Year-round | ✅ Yes |
+| Football Boots | 46.3% | Year-round | ✅ Yes |
+| Swimwear | 44.5% | Year-round | ✅ Yes |
+| Clothing | 44.3% | Year-round | ✅ Yes |
+| Suits & Blazers | 43.7% | Year-round | ✅ Yes |
+| Kids Clothing | 43.2% | Year-round | ✅ Yes |
+| Co-ords | 42.4% | Year-round | ✅ Yes |
+| Beachwear | 42.3% | Year-round | ✅ Yes |
+| Sandals | 42.2% | Year-round | ✅ Yes |
 | Dresses & Skirts | 42.0% | Year-round | ✅ Yes |
-| Sandals | 42.0% | Year-round | ✅ Yes |
-| Kids Clothing | 41.4% | Year-round | ✅ Yes |
-| Shorts | 40.8% | Year-round | ✅ Yes |
-| Playsuits & Jumpsuits | 40.3% | Year-round | ✅ Yes |
+| Shorts | 41.2% | Year-round | ✅ Yes |
 
 ## Key Stats (November 2026, BuySignal data)
 
-- **157,170 live UK deals** tracked daily
-- **THE_FRAGRANCE_SHOP** leads all retailers: 49.3% average discount
-- **LAPTOPS DIRECT** lowest: 21.5% average discount
+- **159,202 live UK deals** tracked daily
+- **GAP** leads all retailers: 52.3% average discount
+- **LAPTOPS DIRECT** lowest: 21.4% average discount
 
 ## Best UK Retailers for Discounts
 
 | Rank | Retailer | Avg Discount |
 |---|---|---|
-| 1 | THE_FRAGRANCE_SHOP | 49.3% |
-| 2 | SPORTS DIRECT | 48.7% |
-| 3 | H&M | 47.4% |
-| 4 | GAP | 46.8% |
-| 5 | UNIQLO | 44.9% |
+| 1 | GAP | 52.3% |
+| 2 | SPORTS DIRECT | 50.3% |
+| 3 | H&M | 47.5% |
+| 4 | JD SPORTS | 46.3% |
+| 5 | UNIQLO | 44.4% |
 
 ## Price Alert Tips
 
