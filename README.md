@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 166,903+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 167,635+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -8,33 +8,33 @@
 
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
-| Basketball | 46.6% | Year-round | ✅ Yes |
-| Swimwear | 45.3% | Year-round | ✅ Yes |
-| Football Boots | 45.3% | Year-round | ✅ Yes |
-| Eau de Cologne | 45.0% | Year-round | ✅ Yes |
-| Suits & Blazers | 43.7% | Year-round | ✅ Yes |
-| Footwear | 42.9% | Year-round | ✅ Yes |
-| Kids Clothing | 42.5% | Year-round | ✅ Yes |
-| Dresses & Skirts | 42.1% | Year-round | ✅ Yes |
-| Co-ords | 42.0% | Year-round | ✅ Yes |
-| Sandals | 41.7% | Year-round | ✅ Yes |
-| Beachwear | 41.5% | Year-round | ✅ Yes |
+| Basketball | 46.9% | Year-round | ✅ Yes |
+| Swimwear | 45.7% | Year-round | ✅ Yes |
+| Football Boots | 45.6% | Year-round | ✅ Yes |
+| Suits & Blazers | 44.8% | Year-round | ✅ Yes |
+| Eau de Cologne | 43.5% | Year-round | ✅ Yes |
+| Dresses & Skirts | 43.1% | Year-round | ✅ Yes |
+| Beachwear | 42.1% | Year-round | ✅ Yes |
+| Footwear | 42.1% | Year-round | ✅ Yes |
+| Co-ords | 41.8% | Year-round | ✅ Yes |
+| Sandals | 41.4% | Year-round | ✅ Yes |
+| Shorts | 41.0% | Year-round | ✅ Yes |
 
 ## Key Stats (November 2026, BuySignal data)
 
-- **166,903 live UK deals** tracked daily
+- **167,635 live UK deals** tracked daily
 - **GAP** leads all retailers: 52.2% average discount
-- **LAPTOPS DIRECT** lowest: 21.7% average discount
+- **LAPTOPS DIRECT** lowest: 21.6% average discount
 
 ## Best UK Retailers for Discounts
 
 | Rank | Retailer | Avg Discount |
 |---|---|---|
 | 1 | GAP | 52.2% |
-| 2 | SPORTS DIRECT | 50.3% |
-| 3 | H&M | 47.8% |
-| 4 | JD SPORTS | 44.3% |
-| 5 | THE NORTH FACE | 44.3% |
+| 2 | SPORTS DIRECT | 50.4% |
+| 3 | H&M | 47.5% |
+| 4 | UNIQLO | 44.5% |
+| 5 | THE NORTH FACE | 44.4% |
 
 ## Price Alert Tips
 
