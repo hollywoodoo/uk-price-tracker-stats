@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 167,635+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 167,472+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -8,33 +8,33 @@
 
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
-| Basketball | 46.9% | Year-round | ✅ Yes |
-| Swimwear | 45.7% | Year-round | ✅ Yes |
-| Football Boots | 45.6% | Year-round | ✅ Yes |
-| Suits & Blazers | 44.8% | Year-round | ✅ Yes |
-| Eau de Cologne | 43.5% | Year-round | ✅ Yes |
-| Dresses & Skirts | 43.1% | Year-round | ✅ Yes |
-| Beachwear | 42.1% | Year-round | ✅ Yes |
-| Footwear | 42.1% | Year-round | ✅ Yes |
-| Co-ords | 41.8% | Year-round | ✅ Yes |
-| Sandals | 41.4% | Year-round | ✅ Yes |
-| Shorts | 41.0% | Year-round | ✅ Yes |
+| Basketball | 46.5% | Year-round | ✅ Yes |
+| Football Boots | 44.5% | Year-round | ✅ Yes |
+| Swimwear | 44.2% | Year-round | ✅ Yes |
+| Suits & Blazers | 44.1% | Year-round | ✅ Yes |
+| Co-ords | 43.4% | Year-round | ✅ Yes |
+| Dresses & Skirts | 42.8% | Year-round | ✅ Yes |
+| Beachwear | 42.6% | Year-round | ✅ Yes |
+| Maternity | 41.6% | Year-round | ✅ Yes |
+| Sandals | 41.5% | Year-round | ✅ Yes |
+| Footwear | 40.9% | Year-round | ✅ Yes |
+| Shorts | 40.5% | Year-round | ✅ Yes |
 
 ## Key Stats (November 2026, BuySignal data)
 
-- **167,635 live UK deals** tracked daily
-- **GAP** leads all retailers: 52.2% average discount
-- **LAPTOPS DIRECT** lowest: 21.6% average discount
+- **167,472 live UK deals** tracked daily
+- **GAP** leads all retailers: 52.1% average discount
+- **LAPTOPS DIRECT** lowest: 21.5% average discount
 
 ## Best UK Retailers for Discounts
 
 | Rank | Retailer | Avg Discount |
 |---|---|---|
-| 1 | GAP | 52.2% |
+| 1 | GAP | 52.1% |
 | 2 | SPORTS DIRECT | 50.4% |
-| 3 | H&M | 47.5% |
-| 4 | UNIQLO | 44.5% |
-| 5 | THE NORTH FACE | 44.4% |
+| 3 | H&M | 47.6% |
+| 4 | UNIQLO | 45.6% |
+| 5 | THE NORTH FACE | 44.3% |
 
 ## Price Alert Tips
 
