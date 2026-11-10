@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 169,036+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 166,181+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -8,33 +8,33 @@
 
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
-| Basketball | 46.4% | Year-round | ✅ Yes |
-| Swimwear | 45.8% | Year-round | ✅ Yes |
-| Football Boots | 44.3% | Year-round | ✅ Yes |
-| Suits & Blazers | 44.2% | Year-round | ✅ Yes |
-| Co-ords | 43.6% | Year-round | ✅ Yes |
-| Beachwear | 42.9% | Year-round | ✅ Yes |
-| Dresses & Skirts | 42.9% | Year-round | ✅ Yes |
-| Maternity | 42.0% | Year-round | ✅ Yes |
+| Basketball | 46.8% | Year-round | ✅ Yes |
+| Football Boots | 44.9% | Year-round | ✅ Yes |
+| Suits & Blazers | 44.1% | Year-round | ✅ Yes |
+| Swimwear | 43.9% | Year-round | ✅ Yes |
+| Co-ords | 42.9% | Year-round | ✅ Yes |
+| Beachwear | 42.4% | Year-round | ✅ Yes |
+| Maternity | 42.3% | Year-round | ✅ Yes |
+| Dresses & Skirts | 42.1% | Year-round | ✅ Yes |
 | Sandals | 41.1% | Year-round | ✅ Yes |
-| Playsuits & Jumpsuits | 40.9% | Year-round | ✅ Yes |
-| Footwear | 40.6% | Year-round | ✅ Yes |
+| Playsuits & Jumpsuits | 40.0% | Year-round | ✅ Yes |
+| Shorts | 39.8% | Year-round | ✅ Yes |
 
 ## Key Stats (November 2026, BuySignal data)
 
-- **169,036 live UK deals** tracked daily
+- **166,181 live UK deals** tracked daily
 - **GAP** leads all retailers: 52.2% average discount
-- **LAPTOPS DIRECT** lowest: 21.4% average discount
+- **LAPTOPS DIRECT** lowest: 21.5% average discount
 
 ## Best UK Retailers for Discounts
 
 | Rank | Retailer | Avg Discount |
 |---|---|---|
 | 1 | GAP | 52.2% |
-| 2 | SPORTS DIRECT | 48.6% |
-| 3 | H&M | 47.6% |
-| 4 | THE NORTH FACE | 44.2% |
-| 5 | UNIQLO | 44.0% |
+| 2 | SPORTS DIRECT | 50.3% |
+| 3 | H&M | 47.7% |
+| 4 | UNIQLO | 45.2% |
+| 5 | THE NORTH FACE | 44.3% |
 
 ## Price Alert Tips
 
