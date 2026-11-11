@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 166,181+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 159,494+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -8,33 +8,33 @@
 
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
-| Basketball | 46.8% | Year-round | ✅ Yes |
-| Football Boots | 44.9% | Year-round | ✅ Yes |
-| Suits & Blazers | 44.1% | Year-round | ✅ Yes |
-| Swimwear | 43.9% | Year-round | ✅ Yes |
-| Co-ords | 42.9% | Year-round | ✅ Yes |
-| Beachwear | 42.4% | Year-round | ✅ Yes |
-| Maternity | 42.3% | Year-round | ✅ Yes |
-| Dresses & Skirts | 42.1% | Year-round | ✅ Yes |
-| Sandals | 41.1% | Year-round | ✅ Yes |
-| Playsuits & Jumpsuits | 40.0% | Year-round | ✅ Yes |
-| Shorts | 39.8% | Year-round | ✅ Yes |
+| Basketball | 47.2% | Year-round | ✅ Yes |
+| Football Boots | 46.3% | Year-round | ✅ Yes |
+| Maternity | 45.8% | Year-round | ✅ Yes |
+| Suits & Blazers | 44.8% | Year-round | ✅ Yes |
+| Swimwear | 44.3% | Year-round | ✅ Yes |
+| Co-ords | 43.5% | Year-round | ✅ Yes |
+| Beachwear | 43.4% | Year-round | ✅ Yes |
+| Kids Clothing | 43.1% | Year-round | ✅ Yes |
+| Dresses & Skirts | 42.6% | Year-round | ✅ Yes |
+| Clothing | 42.3% | Year-round | ✅ Yes |
+| Sandals | 41.9% | Year-round | ✅ Yes |
 
 ## Key Stats (November 2026, BuySignal data)
 
-- **166,181 live UK deals** tracked daily
-- **GAP** leads all retailers: 52.2% average discount
+- **159,494 live UK deals** tracked daily
+- **GAP** leads all retailers: 52.1% average discount
 - **LAPTOPS DIRECT** lowest: 21.5% average discount
 
 ## Best UK Retailers for Discounts
 
 | Rank | Retailer | Avg Discount |
 |---|---|---|
-| 1 | GAP | 52.2% |
-| 2 | SPORTS DIRECT | 50.3% |
+| 1 | GAP | 52.1% |
+| 2 | SPORTS DIRECT | 50.2% |
 | 3 | H&M | 47.7% |
-| 4 | UNIQLO | 45.2% |
-| 5 | THE NORTH FACE | 44.3% |
+| 4 | UNIQLO | 45.1% |
+| 5 | THE_PERFUME_SHOP | 44.9% |
 
 ## Price Alert Tips
 
