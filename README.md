@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 167,368+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 167,556+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -8,23 +8,23 @@
 
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
-| Basketball | 47.0% | Year-round | ✅ Yes |
-| Football Boots | 45.6% | Year-round | ✅ Yes |
-| Suits & Blazers | 43.9% | Year-round | ✅ Yes |
-| Swimwear | 43.6% | Year-round | ✅ Yes |
-| Maternity | 43.2% | Year-round | ✅ Yes |
-| Co-ords | 43.1% | Year-round | ✅ Yes |
-| Beachwear | 42.9% | Year-round | ✅ Yes |
-| Dresses & Skirts | 42.1% | Year-round | ✅ Yes |
-| Sandals | 41.3% | Year-round | ✅ Yes |
-| Kids Clothing | 40.6% | Year-round | ✅ Yes |
-| Shorts | 40.1% | Year-round | ✅ Yes |
+| Basketball | 48.0% | Year-round | ✅ Yes |
+| Football Boots | 47.0% | Year-round | ✅ Yes |
+| Suits & Blazers | 44.6% | Year-round | ✅ Yes |
+| Swimwear | 43.5% | Year-round | ✅ Yes |
+| Beachwear | 43.0% | Year-round | ✅ Yes |
+| Co-ords | 43.0% | Year-round | ✅ Yes |
+| Kids Clothing | 42.9% | Year-round | ✅ Yes |
+| Dresses & Skirts | 42.5% | Year-round | ✅ Yes |
+| Maternity | 41.2% | Year-round | ✅ Yes |
+| Sandals | 41.2% | Year-round | ✅ Yes |
+| Shorts | 40.5% | Year-round | ✅ Yes |
 
 ## Key Stats (November 2026, BuySignal data)
 
-- **167,368 live UK deals** tracked daily
+- **167,556 live UK deals** tracked daily
 - **GAP** leads all retailers: 52.1% average discount
-- **LAPTOPS DIRECT** lowest: 21.4% average discount
+- **LAPTOPS DIRECT** lowest: 21.5% average discount
 
 ## Best UK Retailers for Discounts
 
@@ -32,9 +32,9 @@
 |---|---|---|
 | 1 | GAP | 52.1% |
 | 2 | SPORTS DIRECT | 50.3% |
-| 3 | H&M | 47.7% |
-| 4 | UNIQLO | 45.7% |
-| 5 | THE_PERFUME_SHOP | 45.0% |
+| 3 | H&M | 47.8% |
+| 4 | UNIQLO | 45.3% |
+| 5 | THE NORTH FACE | 44.3% |
 
 ## Price Alert Tips
 
