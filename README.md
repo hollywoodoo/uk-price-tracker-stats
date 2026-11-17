@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 171,171+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 184,827+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -8,33 +8,33 @@
 
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
-| Basketball | 47.1% | Year-round | ✅ Yes |
-| Football Boots | 46.3% | Year-round | ✅ Yes |
-| Swimwear | 43.1% | Year-round | ✅ Yes |
-| Beachwear | 43.0% | Year-round | ✅ Yes |
-| Suits & Blazers | 42.9% | Year-round | ✅ Yes |
-| Co-ords | 42.5% | Year-round | ✅ Yes |
-| Kids Clothing | 42.4% | Year-round | ✅ Yes |
-| Dresses & Skirts | 41.6% | Year-round | ✅ Yes |
-| Sandals | 41.0% | Year-round | ✅ Yes |
-| Maternity | 40.3% | Year-round | ✅ Yes |
-| Shorts | 39.7% | Year-round | ✅ Yes |
+| Football Boots | 47.1% | Year-round | ✅ Yes |
+| Basketball | 47.0% | Year-round | ✅ Yes |
+| Beachwear | 42.7% | Year-round | ✅ Yes |
+| Co-ords | 42.3% | Year-round | ✅ Yes |
+| Kids Clothing | 42.0% | Year-round | ✅ Yes |
+| Swimwear | 41.9% | Year-round | ✅ Yes |
+| Suits & Blazers | 41.0% | Year-round | ✅ Yes |
+| Dresses & Skirts | 39.7% | Year-round | ✅ Yes |
+| Shorts | 39.3% | Year-round | ✅ Yes |
+| Maternity | 39.3% | Year-round | ✅ Yes |
+| Sandals | 39.1% | Year-round | ✅ Yes |
 
 ## Key Stats (November 2026, BuySignal data)
 
-- **171,171 live UK deals** tracked daily
-- **GAP** leads all retailers: 52.3% average discount
+- **184,827 live UK deals** tracked daily
+- **GAP** leads all retailers: 52.2% average discount
 - **ESCENTUAL** lowest: 20.7% average discount
 
 ## Best UK Retailers for Discounts
 
 | Rank | Retailer | Avg Discount |
 |---|---|---|
-| 1 | GAP | 52.3% |
-| 2 | SPORTS DIRECT | 48.8% |
-| 3 | H&M | 47.6% |
+| 1 | GAP | 52.2% |
+| 2 | SPORTS DIRECT | 50.3% |
+| 3 | H&M | 47.8% |
 | 4 | THE NORTH FACE | 44.3% |
-| 5 | THE_PERFUME_SHOP | 44.3% |
+| 5 | THE_PERFUME_SHOP | 44.1% |
 
 ## Price Alert Tips
 
