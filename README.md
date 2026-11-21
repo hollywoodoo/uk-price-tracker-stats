@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 207,251+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 210,252+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -8,33 +8,33 @@
 
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
-| Football Boots | 46.0% | Year-round | ✅ Yes |
-| Kids Clothing | 42.7% | Year-round | ✅ Yes |
+| Football Boots | 43.8% | Year-round | ✅ Yes |
+| Beachwear | 43.1% | Year-round | ✅ Yes |
 | Basketball | 42.7% | Year-round | ✅ Yes |
-| Beachwear | 42.6% | Year-round | ✅ Yes |
-| Co-ords | 42.6% | Year-round | ✅ Yes |
-| Maternity | 42.3% | Year-round | ✅ Yes |
-| Swimwear | 42.2% | Year-round | ✅ Yes |
-| Suits & Blazers | 41.3% | Year-round | ✅ Yes |
-| Sandals | 40.0% | Year-round | ✅ Yes |
-| Dresses & Skirts | 39.8% | Year-round | ✅ Yes |
-| Shorts | 38.6% | Year-round | ✅ Yes |
+| Co-ords | 42.1% | Year-round | ✅ Yes |
+| Swimwear | 41.5% | Year-round | ✅ Yes |
+| Suits & Blazers | 40.2% | Year-round | ✅ Yes |
+| Maternity | 39.8% | Year-round | ✅ Yes |
+| Kids Clothing | 39.4% | Year-round | ✅ Yes |
+| Sandals | 39.2% | Year-round | ✅ Yes |
+| Dresses & Skirts | 39.1% | Year-round | ✅ Yes |
+| Shorts | 38.1% | Year-round | ✅ Yes |
 
 ## Key Stats (November 2026, BuySignal data)
 
-- **207,251 live UK deals** tracked daily
-- **GAP** leads all retailers: 52.2% average discount
+- **210,252 live UK deals** tracked daily
+- **SPORTS DIRECT** leads all retailers: 50.5% average discount
 - **ESCENTUAL** lowest: 20.5% average discount
 
 ## Best UK Retailers for Discounts
 
 | Rank | Retailer | Avg Discount |
 |---|---|---|
-| 1 | GAP | 52.2% |
-| 2 | SPORTS DIRECT | 50.2% |
-| 3 | H&M | 47.7% |
+| 1 | SPORTS DIRECT | 50.5% |
+| 2 | H&M | 47.6% |
+| 3 | GAP | 44.1% |
 | 4 | THE_PERFUME_SHOP | 44.1% |
-| 5 | THE NORTH FACE | 42.5% |
+| 5 | THE NORTH FACE | 42.4% |
 
 ## Price Alert Tips
 
