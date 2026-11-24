@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 214,262+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 215,068+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -8,33 +8,33 @@
 
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
-| Football Boots | 44.0% | Year-round | ✅ Yes |
-| Basketball | 42.9% | Year-round | ✅ Yes |
-| Co-ords | 42.2% | Year-round | ✅ Yes |
-| Beachwear | 41.9% | Year-round | ✅ Yes |
-| Swimwear | 41.1% | Year-round | ✅ Yes |
-| Suits & Blazers | 40.5% | Year-round | ✅ Yes |
-| Maternity | 40.5% | Year-round | ✅ Yes |
-| Kids Clothing | 39.1% | Year-round | ✅ Yes |
-| Sandals | 39.0% | Year-round | ✅ Yes |
-| Dresses & Skirts | 38.8% | Year-round | ✅ Yes |
-| Shorts | 38.2% | Year-round | ✅ Yes |
+| Football Boots | 44.2% | Year-round | ✅ Yes |
+| Basketball | 43.3% | Year-round | ✅ Yes |
+| Beachwear | 42.1% | Year-round | ✅ Yes |
+| Co-ords | 42.1% | Year-round | ✅ Yes |
+| Swimwear | 41.2% | Year-round | ✅ Yes |
+| Suits & Blazers | 40.2% | Year-round | ✅ Yes |
+| Dresses & Skirts | 39.2% | Year-round | ✅ Yes |
+| Kids Clothing | 39.2% | Year-round | ✅ Yes |
+| Sandals | 39.1% | Year-round | ✅ Yes |
+| Maternity | 38.4% | Year-round | ✅ Yes |
+| Shorts | 38.3% | Year-round | ✅ Yes |
 
 ## Key Stats (November 2026, BuySignal data)
 
-- **214,262 live UK deals** tracked daily
-- **SPORTS DIRECT** leads all retailers: 49.6% average discount
-- **ESCENTUAL** lowest: 20.5% average discount
+- **215,068 live UK deals** tracked daily
+- **SPORTS DIRECT** leads all retailers: 50.3% average discount
+- **ESCENTUAL** lowest: 20.3% average discount
 
 ## Best UK Retailers for Discounts
 
 | Rank | Retailer | Avg Discount |
 |---|---|---|
-| 1 | SPORTS DIRECT | 49.6% |
-| 2 | H&M | 47.5% |
-| 3 | THE_PERFUME_SHOP | 44.2% |
+| 1 | SPORTS DIRECT | 50.3% |
+| 2 | H&M | 47.8% |
+| 3 | THE_PERFUME_SHOP | 44.3% |
 | 4 | GAP | 43.9% |
-| 5 | THE NORTH FACE | 42.4% |
+| 5 | THE NORTH FACE | 42.3% |
 
 ## Price Alert Tips
 
