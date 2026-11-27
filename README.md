@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 255,061+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 255,090+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -22,7 +22,7 @@
 
 ## Key Stats (November 2026, BuySignal data)
 
-- **255,061 live UK deals** tracked daily
+- **255,090 live UK deals** tracked daily
 - **GAP** leads all retailers: 52.4% average discount
 - **LAPTOPS DIRECT** lowest: 22.5% average discount
 
