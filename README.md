@@ -1,6 +1,6 @@
 # UK Price Tracker Stats 2026
 
-> When is the best time to buy in the UK? Live data from BuySignal's tracking of 255,090+ deals.
+> When is the best time to buy in the UK? Live data from BuySignal's tracking of 253,429+ deals.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Live Deals](https://buysignal.deals/live-uk-deals-2026)
 
@@ -8,33 +8,33 @@
 
 | Category | Avg Discount | Best Time to Buy | Worth Waiting? |
 |---|---|---|---|
-| Football Boots | 46.7% | Year-round | ✅ Yes |
+| Football Boots | 46.4% | Year-round | ✅ Yes |
+| Beachwear | 44.8% | Year-round | ✅ Yes |
 | Basketball | 44.4% | Year-round | ✅ Yes |
-| Beachwear | 44.3% | Year-round | ✅ Yes |
 | Co-ords | 42.8% | Year-round | ✅ Yes |
-| Swimwear | 42.4% | Year-round | ✅ Yes |
-| Kids Clothing | 41.9% | Year-round | ✅ Yes |
+| Swimwear | 42.3% | Year-round | ✅ Yes |
+| Kids Clothing | 41.8% | Year-round | ✅ Yes |
 | Maternity | 40.6% | Year-round | ✅ Yes |
-| Suits & Blazers | 40.2% | Year-round | ✅ Yes |
-| Dresses & Skirts | 40.1% | Year-round | ✅ Yes |
-| Shorts | 39.6% | Year-round | ✅ Yes |
+| Suits & Blazers | 40.0% | Year-round | ✅ Yes |
+| Dresses & Skirts | 39.9% | Year-round | ✅ Yes |
+| Shorts | 39.5% | Year-round | ✅ Yes |
 | Sandals | 39.3% | Year-round | ✅ Yes |
 
 ## Key Stats (November 2026, BuySignal data)
 
-- **255,090 live UK deals** tracked daily
+- **253,429 live UK deals** tracked daily
 - **GAP** leads all retailers: 52.4% average discount
-- **LAPTOPS DIRECT** lowest: 22.5% average discount
+- **LAPTOPS DIRECT** lowest: 22.4% average discount
 
 ## Best UK Retailers for Discounts
 
 | Rank | Retailer | Avg Discount |
 |---|---|---|
 | 1 | GAP | 52.4% |
-| 2 | SPORTS DIRECT | 50.4% |
-| 3 | H&M | 47.7% |
-| 4 | THE_PERFUME_SHOP | 44.8% |
-| 5 | ADIDAS | 41.4% |
+| 2 | SPORTS DIRECT | 50.3% |
+| 3 | H&M | 47.6% |
+| 4 | THE_PERFUME_SHOP | 44.6% |
+| 5 | THE NORTH FACE | 41.5% |
 
 ## Price Alert Tips
 
